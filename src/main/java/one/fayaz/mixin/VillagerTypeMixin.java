@@ -41,6 +41,12 @@ public class VillagerTypeMixin {
 				Identifier.fromNamespaceAndPath(MoreVillages.MOD_ID, "mushroom")
 		);
 
+		ResourceKey<VillagerType> beachType = ResourceKey.create(
+				BuiltInRegistries.VILLAGER_TYPE.key(),
+				Identifier.fromNamespaceAndPath(MoreVillages.MOD_ID, "beach")
+		);
+
+
 		// Override badlands biomes to use custom badlands villager
 		BY_BIOME.put(Biomes.BADLANDS, badlandsType);
 		BY_BIOME.put(Biomes.ERODED_BADLANDS, badlandsType);
@@ -51,5 +57,9 @@ public class VillagerTypeMixin {
 
 		// Map mooshroom island to custom mushroom villager
 		BY_BIOME.put(Biomes.MUSHROOM_FIELDS, mushroomType);
+
+		// Map beach to custom beach villager
+		BY_BIOME.put(Biomes.BEACH, beachType);
+		BY_BIOME.put(Biomes.STONY_SHORE, beachType);
 	}
 }
