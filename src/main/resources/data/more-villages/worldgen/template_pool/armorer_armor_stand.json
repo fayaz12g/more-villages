@@ -1,0 +1,61 @@
+{
+    "name": "more-villages:village/cherry/armorer_armor_stand",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft1",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+          "weight": 1,
+          "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft2",
+              "projection": "rigid",
+              "processors": "minecraft:empty" 
+          } 
+      },
+      {
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft3",
+            "projection": "rigid",
+            "processors": "minecraft:empty" 
+        } 
+    },
+    {
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft4",
+            "projection": "rigid",
+            "processors": "minecraft:empty" 
+        } 
+    },
+    {
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft5",
+            "projection": "rigid",
+            "processors": "minecraft:empty" 
+        } 
+    },
+    {
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "more-villages:village/cherry/armor_stands/armorer_armor_stand_righttoleft6",
+            "projection": "rigid",
+            "processors": "minecraft:empty" 
+        } 
+    }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "more-villages",
+	"version": "${version}",
+	"name": "More Villages",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/more-villages/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"one.fayaz.MoreVillages"
+		],
+		"client": [
+			"one.fayaz.MoreVillagesClient"
+		],
+		"fabric-datagen": [
+			"one.fayaz.MoreVillagesDataGenerator"
+		]
+	},
+	"mixins": [
+		"more-villages.mixins.json",
+		{
+			"config": "more-villages.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~26.1-",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

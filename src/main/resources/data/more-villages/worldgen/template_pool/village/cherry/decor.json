@@ -1,0 +1,48 @@
+{
+    "name": "more-villages:village/cherry/decor",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+      {
+        "weight": 1,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "more-villages:village/cherry/decor/bell",
+            "projection": "rigid",
+            "processors": "minecraft:empty" 
+        } 
+    },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/decor/cherry_lamp_1",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+          "weight": 3,
+          "element": {
+              "element_type": "minecraft:single_pool_element",
+              "location": "more-villages:village/cherry/decor/cherry_lamp_template",
+              "projection": "rigid",
+              "processors": "minecraft:empty" 
+          } 
+      },
+        {
+            "element": {
+              "element_type": "minecraft:feature_pool_element",
+              "feature": "minecraft:pile_hay",
+              "projection": "terrain_matching"
+            },
+            "weight": 1
+          },
+          {
+            "element": {
+              "element_type": "minecraft:empty_pool_element"
+            },
+            "weight": 2
+          }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "more-villages:village/cherry/roads_stuff",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 9,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads_stuff/road_center",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 8,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads_stuff/road_cross1",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 8,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads_stuff/road_cross2",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads_stuff/simple_fountain",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads_stuff/simple_fountain2",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "asset_id": "more-villages:entity/frog/zen_frog",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#more-villages:spawns_zen_variant_frogs"
+      },
+      "priority": 1
+    }
+  ]
+}

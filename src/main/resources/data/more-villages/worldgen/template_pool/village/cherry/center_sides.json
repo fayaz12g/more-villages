@@ -1,0 +1,52 @@
+{
+    "name": "more-villages:village/cherry/center_sides",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/center_sides/center_side1",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/center_sides/center_side2",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/center_sides/center_side3",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/center_sides/center_side4",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/center_sides/center_side5",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        }
+    ]
+}

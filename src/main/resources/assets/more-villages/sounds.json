@@ -1,0 +1,10 @@
+{
+  "music_disc.zen": {
+    "sounds": [
+      {
+        "name": "more-villages:music_disc/zen",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "name":"more-villages:village/cherry/roads",
+    "fallback": "more-villages:village/cherry/terminators",
+    "elements": 
+    [
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type1",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type2",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type3",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type4",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type5",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/roads/road_type6",
+                "projection": "terrain_matching",
+                "processors": "minecraft:empty" 
+            } 
+        }
+    ]
+}

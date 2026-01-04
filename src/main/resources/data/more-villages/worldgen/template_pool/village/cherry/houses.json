@@ -1,0 +1,367 @@
+{
+    "name":"more-villages:village/cherry/houses",
+    "fallback": "minecraft:empty",
+    "elements": 
+    [
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            }
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/medium_cherry_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house2",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house3",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house4",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house5",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tall_cherry_house6",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/tiny_cherry_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/cherry_wood_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house2",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house3",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house4",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house5",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house6",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house7",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house8",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house9",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house10",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 4,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_cherry_house11",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/weaponsmith_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/leatherworker_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/armorer_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/fletcher_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/fisherman_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/butcher_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/mason_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/cleric_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/cartographer_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        }, 
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/sheperd_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        }, 
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/fisherman_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/librarian_house",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },  
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/cherry_tool_smith",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },  
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_farm",
+                "projection": "rigid",
+                "processors": "more-villages:mossifier" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/animals1",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/animals2",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/animals3",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 7,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/house_template",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_farm_growth",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "more-villages:village/cherry/houses/small_farm2",
+                "projection": "rigid",
+                "processors": "minecraft:empty" 
+            } 
+        }
+    ]
+}
