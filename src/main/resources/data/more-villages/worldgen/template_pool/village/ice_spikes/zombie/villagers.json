@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/villagers/nitwit",
+        "location": "more-villages:village/ice_spikes/zombie/villagers/nitwit",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/villagers/unemployed",
+        "location": "more-villages:village/ice_spikes/zombie/villagers/unemployed",
         "processors": {
           "processors": []
         },

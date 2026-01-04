@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/villagers/nitwit",
+        "location": "more-villages:village/ice_spikes/villagers/nitwit",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/villagers/baby",
+        "location": "more-villages:village/ice_spikes/villagers/baby",
         "processors": {
           "processors": []
         },
@@ -25,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/villagers/unemployed",
+        "location": "more-villages:village/ice_spikes/villagers/unemployed",
         "processors": {
           "processors": []
         },

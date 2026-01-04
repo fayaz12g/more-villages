@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/town_centers/ice_spikes_meeting_point_1",
+        "location": "more-villages:village/ice_spikes/town_centers/ice_spikes_meeting_point_1",
         "processors": {
           "processors": []
         },
@@ -14,7 +14,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/town_centers/ice_spikes_meeting_point_2",
+        "location": "more-villages:village/ice_spikes/town_centers/ice_spikes_meeting_point_2",
         "processors": {
           "processors": []
         },
@@ -25,7 +25,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/town_centers/ice_spikes_meeting_point_3",
+        "location": "more-villages:village/ice_spikes/town_centers/ice_spikes_meeting_point_3",
         "processors": {
           "processors": []
         },
@@ -36,7 +36,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_1",
+        "location": "more-villages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_1",
         "processors": {
           "processors": []
         },
@@ -47,7 +47,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_2",
+        "location": "more-villages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_2",
         "processors": {
           "processors": []
         },
@@ -58,7 +58,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_3",
+        "location": "more-villages:village/ice_spikes/zombie/town_centers/ice_spikes_meeting_point_3",
         "processors": {
           "processors": []
         },

@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/corner_01",
+        "location": "more-villages:village/ice_spikes/zombie/streets/corner_01",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/corner_02",
+        "location": "more-villages:village/ice_spikes/zombie/streets/corner_02",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -21,7 +21,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/corner_03",
+        "location": "more-villages:village/ice_spikes/zombie/streets/corner_03",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -30,7 +30,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/square_01",
+        "location": "more-villages:village/ice_spikes/zombie/streets/square_01",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -39,7 +39,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_01",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_01",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -48,7 +48,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_02",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_02",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -57,7 +57,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_03",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_03",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -66,7 +66,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_04",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_04",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -75,7 +75,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_06",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_06",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -84,7 +84,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/straight_08",
+        "location": "more-villages:village/ice_spikes/zombie/streets/straight_08",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -93,7 +93,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/crossroad_02",
+        "location": "more-villages:village/ice_spikes/zombie/streets/crossroad_02",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -102,7 +102,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/crossroad_03",
+        "location": "more-villages:village/ice_spikes/zombie/streets/crossroad_03",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -111,7 +111,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/crossroad_04",
+        "location": "more-villages:village/ice_spikes/zombie/streets/crossroad_04",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -120,7 +120,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/crossroad_05",
+        "location": "more-villages:village/ice_spikes/zombie/streets/crossroad_05",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -129,7 +129,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/crossroad_06",
+        "location": "more-villages:village/ice_spikes/zombie/streets/crossroad_06",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
@@ -138,12 +138,12 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/streets/turn_01",
+        "location": "more-villages:village/ice_spikes/zombie/streets/turn_01",
         "processors": "minecraft:street_ice_spikes_or_taiga",
         "projection": "terrain_matching"
       },
       "weight": 3
     }
   ],
-  "fallback": "morevillages:village/ice_spikes/terminators"
+  "fallback": "more-villages:village/ice_spikes/terminators"
 }

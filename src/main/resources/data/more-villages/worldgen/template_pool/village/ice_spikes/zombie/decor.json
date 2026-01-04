@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/ice_spikes_lamp_post_01",
+        "location": "more-villages:village/ice_spikes/ice_spikes_lamp_post_01",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/ice_spikes_lamp_post_02",
+        "location": "more-villages:village/ice_spikes/ice_spikes_lamp_post_02",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -21,7 +21,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/ice_spikes_lamp_post_03",
+        "location": "more-villages:village/ice_spikes/ice_spikes_lamp_post_03",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },

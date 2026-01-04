@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_1",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_2",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -21,7 +21,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_3",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_3",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -30,7 +30,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_4",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_4",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -39,7 +39,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_5",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_5",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -48,7 +48,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_6",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_6",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -57,7 +57,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_7",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_7",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -66,7 +66,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_small_house_8",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_small_house_8",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -75,7 +75,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_1",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -84,7 +84,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_2",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -93,7 +93,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_3",
+        "location": "more-villages:village/ice_spikes/zombie/houses/ice_spikes_medium_house_3",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -102,7 +102,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_butchers_shop_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_butchers_shop_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -111,7 +111,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_butchers_shop_2",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_butchers_shop_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -120,7 +120,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_tool_smith_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_tool_smith_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -129,7 +129,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_fletcher_house_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_fletcher_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -138,7 +138,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_shepherds_house_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_shepherds_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -147,7 +147,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_armorer_house_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_armorer_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -156,7 +156,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_armorer_house_2",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_armorer_house_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -165,7 +165,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_fisher_cottage",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_fisher_cottage",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -174,7 +174,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_tannery_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_tannery_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -183,7 +183,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_cartographer_house_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_cartographer_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -192,7 +192,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_library_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_library_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -201,7 +201,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_masons_house_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_masons_house_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -210,7 +210,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_masons_house_2",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_masons_house_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -219,7 +219,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_weapon_smith_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_weapon_smith_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -228,7 +228,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_temple_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_temple_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -237,7 +237,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_farm_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_farm_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -246,7 +246,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_farm_2",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_farm_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -255,7 +255,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_animal_pen_1",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_animal_pen_1",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -264,7 +264,7 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/houses/ice_spikes_animal_pen_2",
+        "location": "more-villages:village/ice_spikes/houses/ice_spikes_animal_pen_2",
         "processors": "minecraft:zombie_snowy",
         "projection": "rigid"
       },
@@ -277,5 +277,5 @@
       "weight": 6
     }
   ],
-  "fallback": "morevillages:village/ice_spikes/terminators"
+  "fallback": "more-villages:village/ice_spikes/terminators"
 }

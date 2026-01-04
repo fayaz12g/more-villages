@@ -3,8 +3,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/corner_01",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/corner_01",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -12,8 +12,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/corner_02",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/corner_02",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -21,8 +21,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/corner_03",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/corner_03",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -30,8 +30,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/square_01",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/square_01",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -39,8 +39,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_01",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_01",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -48,8 +48,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_02",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_02",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -57,8 +57,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_03",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_03",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -66,8 +66,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_04",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_04",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 7
@@ -75,8 +75,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_06",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_06",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -84,8 +84,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/straight_08",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/straight_08",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 4
@@ -93,8 +93,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/crossroad_02",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/crossroad_02",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 1
@@ -102,8 +102,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/crossroad_03",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/crossroad_03",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -111,8 +111,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/crossroad_04",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/crossroad_04",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -120,8 +120,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/crossroad_05",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/crossroad_05",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -129,8 +129,8 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/crossroad_06",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/crossroad_06",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 2
@@ -138,12 +138,12 @@
     {
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
-        "location": "morevillages:village/ice_spikes/streets/turn_01",
-        "processors": "minecraft:street_ice_spikes_or_taiga",
+        "location": "more-villages:village/ice_spikes/streets/turn_01",
+        "processors": "minecraft:empty",
         "projection": "terrain_matching"
       },
       "weight": 3
     }
   ],
-  "fallback": "morevillages:village/ice_spikes/terminators"
+  "fallback": "more-villages:village/ice_spikes/terminators"
 }
