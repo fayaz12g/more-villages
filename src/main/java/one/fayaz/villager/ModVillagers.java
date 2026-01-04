@@ -23,4 +23,5 @@ public class ModVillagers {
     public static void initialize() {
         MoreVillages.LOGGER.info("Registering villager types for " + MoreVillages.MOD_ID);
     }
+
 }

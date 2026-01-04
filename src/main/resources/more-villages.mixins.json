@@ -3,7 +3,7 @@
 	"package": "one.fayaz.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"VillagerTypeMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
