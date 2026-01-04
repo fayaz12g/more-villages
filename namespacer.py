@@ -46,10 +46,10 @@ def replace_namespace_in_nbt(file_path, old_namespace, new_namespace):
 
 def main():
     # Configuration
-    OLD_NAMESPACE = "minecraft"
-    NEW_NAMESPACE = "more-villages"
+    OLD_NAMESPACE = "minecraft:village/desert"
+    NEW_NAMESPACE = "more-villages:village/badlands"
     ROOT_DIR = "./src/main/resources/data/more-villages/structure/village/"
-    ROOT_DIR = ROOT_DIR + "cherry" # Update this line to the target village
+    ROOT_DIR = ROOT_DIR + "badlands" # Update this line to the target village
 
     print(f"Searching for NBT files in: {os.path.abspath(ROOT_DIR)}")
     print(f"Replacing '{OLD_NAMESPACE}' with '{NEW_NAMESPACE}'")

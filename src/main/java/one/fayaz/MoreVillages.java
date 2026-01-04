@@ -9,6 +9,7 @@ import net.minecraft.sounds.SoundEvent;
 import one.fayaz.block.ModBlocks;
 import one.fayaz.item.ModItems;
 import one.fayaz.sound.ModSounds;
+import one.fayaz.villager.ModVillagers;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -31,5 +32,6 @@ public class MoreVillages implements ModInitializer {
 		ModBlocks.initialize();
 		ModItems.initialize();
 		ModSounds.initialize();
+		ModVillagers.initialize();
 	}
 }
