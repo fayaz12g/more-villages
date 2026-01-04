@@ -248,7 +248,7 @@
       "weight": 4,
       "element": {
         "location": "more-villages:villages/mushroom/houses/large_farm_1",
-        "processors": "more-villages:villages/mushroom/crop_randomizer",
+        "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -257,7 +257,7 @@
       "weight": 4,
       "element": {
         "location": "more-villages:villages/mushroom/houses/small_farm_1",
-        "processors": "more-villages:villages/mushroom/crop_randomizer",
+        "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

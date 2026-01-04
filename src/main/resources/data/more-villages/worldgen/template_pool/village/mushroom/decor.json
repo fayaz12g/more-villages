@@ -5,7 +5,7 @@
       "weight": 2,
       "element": {
         "location": "more-villages:villages/mushroom/decor/lamp_1",
-        "processors": "more-villages:villages/mushroom/pillar_1",
+        "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
@@ -13,7 +13,7 @@
     {
       "weight": 1,
       "element": {
-        "feature": "minecraft:huge_red_mushroom",
+        "feature": "more-villages:huge_red_mushroom",
         "projection": "rigid",
         "element_type": "minecraft:feature_pool_element"
       }
@@ -21,7 +21,7 @@
     {
       "weight": 1,
       "element": {
-        "feature": "minecraft:huge_brown_mushroom",
+        "feature": "more-villages:huge_brown_mushroom",
         "projection": "rigid",
         "element_type": "minecraft:feature_pool_element"
       }

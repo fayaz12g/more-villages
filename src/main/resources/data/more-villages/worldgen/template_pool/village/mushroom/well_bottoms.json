@@ -14,7 +14,7 @@
       "weight": 3,
       "element": {
         "location": "more-villages:villages/mushroom/decor/well_bottom",
-        "processors": "more-villages:villages/mushroom/weak_goldify",
+        "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
