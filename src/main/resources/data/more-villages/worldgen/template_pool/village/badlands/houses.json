@@ -2,7 +2,7 @@
   "elements": [
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_1",
         "processors": {
           "processors": []
@@ -13,7 +13,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_2",
         "processors": {
           "processors": []
@@ -24,7 +24,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_3",
         "processors": {
           "processors": []
@@ -35,7 +35,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_4",
         "processors": {
           "processors": []
@@ -46,7 +46,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_5",
         "processors": {
           "processors": []
@@ -57,7 +57,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_6",
         "processors": {
           "processors": []
@@ -68,7 +68,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_7",
         "processors": {
           "processors": []
@@ -79,7 +79,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_small_house_8",
         "processors": {
           "processors": []
@@ -90,7 +90,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_medium_house_1",
         "processors": {
           "processors": []
@@ -101,7 +101,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_medium_house_2",
         "processors": {
           "processors": []
@@ -112,7 +112,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_butcher_shop_1",
         "processors": {
           "processors": []
@@ -123,7 +123,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_tool_smith_1",
         "processors": {
           "processors": []
@@ -134,7 +134,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_fletcher_house_1",
         "processors": {
           "processors": []
@@ -145,7 +145,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_shepherd_house_1",
         "processors": {
           "processors": []
@@ -156,7 +156,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_armorer_1",
         "processors": {
           "processors": []
@@ -167,7 +167,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_fisher_1",
         "processors": {
           "processors": []
@@ -178,7 +178,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_tannery_1",
         "processors": {
           "processors": []
@@ -189,7 +189,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_cartographer_house_1",
         "processors": {
           "processors": []
@@ -200,7 +200,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_library_1",
         "processors": {
           "processors": []
@@ -211,7 +211,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_mason_1",
         "processors": {
           "processors": []
@@ -222,7 +222,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_weaponsmith_1",
         "processors": {
           "processors": []
@@ -233,7 +233,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_temple_1",
         "processors": {
           "processors": []
@@ -244,7 +244,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_temple_2",
         "processors": {
           "processors": []
@@ -255,34 +255,34 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_large_farm_1",
-        "processors": "minecraft:farm_badlands",
+        "processors": "minecraft:farm_desert",
         "projection": "rigid"
       },
       "weight": 11
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_farm_1",
-        "processors": "minecraft:farm_badlands",
+        "processors": "minecraft:farm_desert",
         "projection": "rigid"
       },
       "weight": 4
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_farm_2",
-        "processors": "minecraft:farm_badlands",
+        "processors": "minecraft:farm_desert",
         "projection": "rigid"
       },
       "weight": 4
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_animal_pen_1",
         "processors": {
           "processors": []
@@ -293,7 +293,7 @@
     },
     {
       "element": {
-        "element_type": "minecraft:badlands",
+        "element_type": "minecraft:single_pool_element",
         "location": "more-villages:village/badlands/houses/badlands_animal_pen_2",
         "processors": {
           "processors": []
