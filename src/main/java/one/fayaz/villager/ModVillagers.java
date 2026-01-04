@@ -12,6 +12,7 @@ public class ModVillagers {
 
     public static final VillagerType BADLANDS = register("badlands");
     public static final VillagerType CHERRY = register("cherry");
+    public static final VillagerType MUSHROOM = register("mushroom");
 
 
     private static VillagerType register(String name) {

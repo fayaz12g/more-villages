@@ -25,7 +25,7 @@ public class VillagerTypeMixin {
 
 	@Inject(method = "<clinit>", at = @At("TAIL"))
 	private static void addCustomVillagerTypes(CallbackInfo ci) {
-		// Create resource keys for your custom villager types
+		// Create resource keys for custom villager types
 		ResourceKey<VillagerType> badlandsType = ResourceKey.create(
 				BuiltInRegistries.VILLAGER_TYPE.key(),
 				Identifier.fromNamespaceAndPath(MoreVillages.MOD_ID, "badlands")
@@ -36,12 +36,20 @@ public class VillagerTypeMixin {
 				Identifier.fromNamespaceAndPath(MoreVillages.MOD_ID, "cherry")
 		);
 
-		// Override badlands biomes to use your custom badlands villager
+		ResourceKey<VillagerType> mushroomType = ResourceKey.create(
+				BuiltInRegistries.VILLAGER_TYPE.key(),
+				Identifier.fromNamespaceAndPath(MoreVillages.MOD_ID, "mushroom")
+		);
+
+		// Override badlands biomes to use custom badlands villager
 		BY_BIOME.put(Biomes.BADLANDS, badlandsType);
 		BY_BIOME.put(Biomes.ERODED_BADLANDS, badlandsType);
 		BY_BIOME.put(Biomes.WOODED_BADLANDS, badlandsType);
 
-		// Map cherry grove to your custom cherry villager
+		// Map cherry grove to custom cherry villager
 		BY_BIOME.put(Biomes.CHERRY_GROVE, cherryType);
+
+		// Map mooshroom island to custom mushroom villager
+		BY_BIOME.put(Biomes.MUSHROOM_FIELDS, mushroomType);
 	}
 }
