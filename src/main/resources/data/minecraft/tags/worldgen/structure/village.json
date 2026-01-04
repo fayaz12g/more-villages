@@ -5,6 +5,15 @@
     "minecraft:village_savanna",
     "minecraft:village_snowy",
     "minecraft:village_taiga",
-    "more-villages:village_cherry"
+    "more-villages:village_cherry",
+    "more-villages:village_birch",
+    "more-villages:village_dark_oak",
+    "more-villages:village_pale_oak",
+    "more-villages:village_bamboo_jungle",
+    "more-villages:village_mangrove",
+    "more-villages:village_beach",
+    "more-villages:village_stony_shore",
+    "more-villages:village_badlands",
+    "more-villages:village_ice_spikes"
   ]
 }
