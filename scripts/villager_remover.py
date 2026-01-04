@@ -70,8 +70,8 @@ def remove_villagers_from_nbt(file_path, create_backup=True):
 def main():
     # Configuration
     PATHS_TO_CHECK = [
-        "../src/main/resources/data/more-villages/structure/village/badlands",
-        "../src/main/resources/data/more-villages/structure/village/cherry",
+        "./src/main/resources/data/more-villages/structure/village/badlands",
+        "./src/main/resources/data/more-villages/structure/village/cherry",
     ]
     
     CREATE_BACKUP = True  # Set to False to skip backups
