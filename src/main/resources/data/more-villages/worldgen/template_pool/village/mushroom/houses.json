@@ -1,10 +1,10 @@
 {
-  "fallback": "more-villages:villages/mushroom/terminators",
+  "fallback": "more-villages:village/mushroom/terminators",
   "elements": [
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_1",
+        "location": "more-villages:village/mushroom/houses/small_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -13,7 +13,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_2",
+        "location": "more-villages:village/mushroom/houses/small_house_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -22,7 +22,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_3",
+        "location": "more-villages:village/mushroom/houses/small_house_3",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -31,7 +31,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_4",
+        "location": "more-villages:village/mushroom/houses/small_house_4",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -40,7 +40,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_5",
+        "location": "more-villages:village/mushroom/houses/small_house_5",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -49,7 +49,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_6",
+        "location": "more-villages:village/mushroom/houses/small_house_6",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -58,7 +58,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_7",
+        "location": "more-villages:village/mushroom/houses/small_house_7",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -67,7 +67,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_house_8",
+        "location": "more-villages:village/mushroom/houses/small_house_8",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -76,7 +76,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/medium_house_1",
+        "location": "more-villages:village/mushroom/houses/medium_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -85,7 +85,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/medium_house_2",
+        "location": "more-villages:village/mushroom/houses/medium_house_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -94,7 +94,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/big_house_1",
+        "location": "more-villages:village/mushroom/houses/big_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -103,7 +103,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/butcher_shop_1",
+        "location": "more-villages:village/mushroom/houses/butcher_shop_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -112,7 +112,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/butcher_shop_2",
+        "location": "more-villages:village/mushroom/houses/butcher_shop_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -121,7 +121,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/tool_smith_1",
+        "location": "more-villages:village/mushroom/houses/tool_smith_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -130,7 +130,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/fletcher_house_1",
+        "location": "more-villages:village/mushroom/houses/fletcher_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -139,7 +139,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/shepherds_house_1",
+        "location": "more-villages:village/mushroom/houses/shepherds_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -148,7 +148,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/armorer_house_1",
+        "location": "more-villages:village/mushroom/houses/armorer_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -157,7 +157,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/fisher_cottage_1",
+        "location": "more-villages:village/mushroom/houses/fisher_cottage_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -166,7 +166,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/tannery_1",
+        "location": "more-villages:village/mushroom/houses/tannery_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -175,7 +175,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/cartographer_1",
+        "location": "more-villages:village/mushroom/houses/cartographer_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -184,7 +184,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/library_1",
+        "location": "more-villages:village/mushroom/houses/library_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -193,7 +193,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/library_2",
+        "location": "more-villages:village/mushroom/houses/library_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -202,7 +202,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/masons_house_1",
+        "location": "more-villages:village/mushroom/houses/masons_house_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -211,7 +211,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/temple_3",
+        "location": "more-villages:village/mushroom/houses/temple_3",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -220,7 +220,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/temple_4",
+        "location": "more-villages:village/mushroom/houses/temple_4",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -229,7 +229,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/stable_1",
+        "location": "more-villages:village/mushroom/houses/stable_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -238,7 +238,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/stable_2",
+        "location": "more-villages:village/mushroom/houses/stable_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -247,7 +247,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/large_farm_1",
+        "location": "more-villages:village/mushroom/houses/large_farm_1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -256,7 +256,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/small_farm_1",
+        "location": "more-villages:village/mushroom/houses/small_farm_1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -265,7 +265,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/animal_pen_1",
+        "location": "more-villages:village/mushroom/houses/animal_pen_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -274,7 +274,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/animal_pen_2",
+        "location": "more-villages:village/mushroom/houses/animal_pen_2",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -283,7 +283,7 @@
     {
       "weight": 5,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/animal_pen_3",
+        "location": "more-villages:village/mushroom/houses/animal_pen_3",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -292,7 +292,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/accessory_1",
+        "location": "more-villages:village/mushroom/houses/accessory_1",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -301,7 +301,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/meeting_point_4",
+        "location": "more-villages:village/mushroom/houses/meeting_point_4",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -310,7 +310,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/houses/meeting_point_5",
+        "location": "more-villages:village/mushroom/houses/meeting_point_5",
         "processors": "more-villages:mossifier",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

@@ -1,10 +1,10 @@
 {
-  "fallback": "more-villages:villages/mushroom/well_bottoms",
+  "fallback": "more-villages:village/mushroom/well_bottoms",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/decor/well_bottom_rare",
+        "location": "more-villages:village/mushroom/decor/well_bottom_rare",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -13,7 +13,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/decor/well_bottom",
+        "location": "more-villages:village/mushroom/decor/well_bottom",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

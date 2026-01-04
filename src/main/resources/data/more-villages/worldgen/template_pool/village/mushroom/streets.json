@@ -1,10 +1,10 @@
 {
-  "fallback": "more-villages:villages/mushroom/terminators",
+  "fallback": "more-villages:village/mushroom/terminators",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/corner_01",
+        "location": "more-villages:village/mushroom/streets/corner_01",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -13,7 +13,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/corner_02",
+        "location": "more-villages:village/mushroom/streets/corner_02",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -22,7 +22,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/corner_03",
+        "location": "more-villages:village/mushroom/streets/corner_03",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -31,7 +31,7 @@
     {
       "weight": 6,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_01",
+        "location": "more-villages:village/mushroom/streets/straight_01",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -40,7 +40,7 @@
     {
       "weight": 6,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_02",
+        "location": "more-villages:village/mushroom/streets/straight_02",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -49,7 +49,7 @@
     {
       "weight": 8,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_03",
+        "location": "more-villages:village/mushroom/streets/straight_03",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -58,7 +58,7 @@
     {
       "weight": 8,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_04",
+        "location": "more-villages:village/mushroom/streets/straight_04",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -67,7 +67,7 @@
     {
       "weight": 4,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_05",
+        "location": "more-villages:village/mushroom/streets/straight_05",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -76,7 +76,7 @@
     {
       "weight": 6,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/straight_06",
+        "location": "more-villages:village/mushroom/streets/straight_06",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -85,7 +85,7 @@
     {
       "weight": 3,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_01",
+        "location": "more-villages:village/mushroom/streets/crossroad_01",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -94,7 +94,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_02",
+        "location": "more-villages:village/mushroom/streets/crossroad_02",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -103,7 +103,7 @@
     {
       "weight": 6,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_03",
+        "location": "more-villages:village/mushroom/streets/crossroad_03",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -112,7 +112,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_04",
+        "location": "more-villages:village/mushroom/streets/crossroad_04",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -121,7 +121,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_05",
+        "location": "more-villages:village/mushroom/streets/crossroad_05",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -130,7 +130,7 @@
     {
       "weight": 2,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/crossroad_06",
+        "location": "more-villages:village/mushroom/streets/crossroad_06",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
@@ -139,7 +139,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "more-villages:villages/mushroom/streets/turn_01",
+        "location": "more-villages:village/mushroom/streets/turn_01",
         "processors": "minecraft:empty",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
