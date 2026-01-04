@@ -62,7 +62,8 @@ def main():
         "stone_brick_stairs": "deepslate_brick_stairs",
         "stone_brick_slab": "deepslate_brick_slab",
         "stone_brick_wall": "deepslate_brick_wall",
-        "sandstone": "red_sandstone",
+        "minecraft:sandstone": "red_sandstone",
+        "minecraft:jungle_button": "minecraft:dark_oak_button",
     }
     
     ROOT_DIR = "./src/main/resources/data/more-villages/structure/village/"
