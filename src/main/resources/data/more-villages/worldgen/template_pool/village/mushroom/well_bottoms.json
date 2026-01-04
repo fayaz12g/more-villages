@@ -1,0 +1,23 @@
+{
+  "fallback": "more-villages:villages/mushroom/well_bottoms",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "more-villages:villages/mushroom/decor/well_bottom_rare",
+        "processors": "more-villages:villages/mushroom/goldify",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "more-villages:villages/mushroom/decor/well_bottom",
+        "processors": "more-villages:villages/mushroom/weak_goldify",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "more-villages:villages/mushroom/terminators/terminator_01",
+        "processors": "more-villages:villages/mushroom/path_randomizer",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "more-villages:villages/mushroom/terminators/terminator_02",
+        "processors": "more-villages:villages/mushroom/path_randomizer",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "more-villages:villages/mushroom/terminators/terminator_03",
+        "processors": "more-villages:villages/mushroom/path_randomizer",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "more-villages:villages/mushroom/terminators/terminator_04",
+        "processors": "more-villages:villages/mushroom/path_randomizer",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
