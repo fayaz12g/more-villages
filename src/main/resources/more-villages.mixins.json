@@ -3,7 +3,8 @@
 	"package": "one.fayaz.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"VillagerTypeMixin"
+		"VillagerTypeMixin",
+		"IronGolemMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

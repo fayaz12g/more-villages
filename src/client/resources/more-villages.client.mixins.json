@@ -3,7 +3,8 @@
 	"package": "one.fayaz.mixin.client",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
-		"ExampleClientMixin"
+		"IronGolemRendererMixin",
+		"IronGolemRenderStateMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

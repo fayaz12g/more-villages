@@ -2,11 +2,11 @@ package one.fayaz;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.minecraft.core.Registry;
-import net.minecraft.core.registries.Registries;
-import net.minecraft.resources.Identifier;
-import net.minecraft.sounds.SoundEvent;
+import net.fabricmc.fabric.api.event.registry.DynamicRegistries;
 import one.fayaz.block.ModBlocks;
+import one.fayaz.entity.IronGolemSpawnHandler;
+import one.fayaz.entity.IronGolemVariant;
+import one.fayaz.entity.ModEntityDataSerializers;
 import one.fayaz.item.ModItems;
 import one.fayaz.sound.ModSounds;
 import one.fayaz.villager.ModVillagers;
@@ -27,7 +27,18 @@ public class MoreVillages implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Loading MoreVillages...!");
+
+		ModEntityDataSerializers.initialize();
+
+		DynamicRegistries.registerSynced(
+				ModRegistries.IRON_GOLEM_VARIANT,
+				IronGolemVariant.DIRECT_CODEC,
+				IronGolemVariant.NETWORK_CODEC // Use the network codec to save bandwidth
+		);
+
+		// Register spawn handler for setting variants
+		IronGolemSpawnHandler.register();
 
 		ModBlocks.initialize();
 		ModItems.initialize();
