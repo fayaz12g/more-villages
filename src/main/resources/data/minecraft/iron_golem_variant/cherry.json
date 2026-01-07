@@ -1,10 +1,10 @@
 {
-  "asset_id": "minecraft:entity/iron_golem/cold",
+  "asset_id": "minecraft:entity/iron_golem/cherry",
   "spawn_conditions": [
     {
       "condition": {
         "type": "minecraft:biome",
-        "biomes": "#minecraft:spawns_cold_variant_farm_animals"
+        "biomes": "#more-villages:has_structure/village_cherry"
       },
       "priority": 1
     }

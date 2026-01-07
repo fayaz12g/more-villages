@@ -1,5 +1,5 @@
 {
-  "asset_id": "minecraft:entity/iron_golem/temperate",
+  "asset_id": "minecraft:entity/iron_golem/plains",
   "spawn_conditions": [
     {
       "priority": 0

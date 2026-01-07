@@ -42,7 +42,7 @@ public abstract class IronGolemMixin implements IronGolemVariantAccessor {
         Registry<IronGolemVariant> registry = registryAccess.lookupOrThrow(ModRegistries.IRON_GOLEM_VARIANT);
 
         // Get the default "Temperate" variant to use as the initial value
-        Holder<IronGolemVariant> defaultVariant = registry.getOrThrow(IronGolemVariants.TEMPERATE);
+        Holder<IronGolemVariant> defaultVariant = registry.getOrThrow(IronGolemVariants.PLAINS);
 
         // Initialize our cache now so it's ready
         this.moreVillages$cachedVariant = defaultVariant;

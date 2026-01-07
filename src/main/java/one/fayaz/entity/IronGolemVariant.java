@@ -56,7 +56,17 @@ public record IronGolemVariant(
     public enum ModelType implements StringRepresentable {
         NORMAL("normal"),
         COLD("cold"),
-        WARM("warm");
+        WARM("warm"),
+        DESERT("desert"),
+        JUNGLE("jungle"),
+        PLAINS("plains"),
+        SAVANNA("savanna"),
+        SNOW("snow"),
+        SWAMP("swamp"),
+        TAIGA("taiga"),
+        BADLANDS("badlands"),
+        CHERRY("cherry"),
+        BEACH("beach");
 
         public static final Codec<ModelType> CODEC = StringRepresentable.fromEnum(ModelType::values);
         private final String name;

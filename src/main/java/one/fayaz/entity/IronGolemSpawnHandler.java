@@ -46,7 +46,7 @@ public class IronGolemSpawnHandler {
 
             // Check if this is still the default variant from initialization
             // We want to set a biome-specific variant for new spawns
-            if (currentVariant != null && currentVariant.is(IronGolemVariants.TEMPERATE)) {
+            if (currentVariant != null && currentVariant.is(IronGolemVariants.PLAINS)) {
                 // This might be a new spawn with default variant
                 // Try to select a better variant based on location
                 var selectedVariant = VariantUtils.selectVariantToSpawn(
@@ -54,7 +54,7 @@ public class IronGolemSpawnHandler {
                         ModRegistries.IRON_GOLEM_VARIANT
                 );
 
-                if (selectedVariant.isPresent() && !selectedVariant.get().is(IronGolemVariants.TEMPERATE)) {
+                if (selectedVariant.isPresent() && !selectedVariant.get().is(IronGolemVariants.PLAINS)) {
                     // Found a non-default variant for this biome, use it
                     accessor.moreVillages$setVariant(selectedVariant.get());
                     MoreVillages.LOGGER.debug("Set Iron Golem variant to {} at {}",

@@ -36,7 +36,7 @@ public class IronGolemRendererMixin {
         if (variant != null && variant.isBound()) {
             Identifier assetId = variant.value().modelAndTexture().asset().id();
             // Convert "minecraft:entity/iron_golem/cold" -> "minecraft:textures/entity/iron_golem/cold.png"
-            Identifier fullTexturePath = assetId.withPath(path -> "textures/" + path + "_iron_golem.png");
+            Identifier fullTexturePath = assetId.withPath(path -> "textures/" + path + ".png");
             cir.setReturnValue(fullTexturePath);
         }
     }
