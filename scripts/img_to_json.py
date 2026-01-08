@@ -7,15 +7,15 @@ def image_to_json(input_path, output_path):
         # Open image
         img = Image.open(input_path).convert("RGBA")
         
-        # Resize to 128x16 using Nearest Neighbor to preserve crisp pixel edges
-        img = img.resize((128, 128), resample=Image.Resampling.NEAREST)
+        # Resize to 16x16 using Nearest Neighbor to preserve crisp pixel edges
+        img = img.resize((16, 16), resample=Image.Resampling.NEAREST)
         
         pixels = img.load()
         data = {}
 
         # Iterate through every pixel (0 to 15)
-        for y in range(128):
-            for x in range(128):
+        for y in range(16):
+            for x in range(16):
                 r, g, b, a = pixels[x, y]
                 # Convert to Hex #RRGGBBAA
                 hex_code = f"#{r:02x}{g:02x}{b:02x}{a:02x}"

@@ -8,8 +8,8 @@ def json_to_image(input_path, output_path):
         with open(input_path, "r") as f:
             data = json.load(f)
 
-        # Create a new 16x16 transparent image
-        img = Image.new("RGBA", (16, 16))
+        # Create a new 128x128 transparent image
+        img = Image.new("RGBA", (128, 128))
         pixels = img.load()
 
         for coord, hex_code in data.items():
