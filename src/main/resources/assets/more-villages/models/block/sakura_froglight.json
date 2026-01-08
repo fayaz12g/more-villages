@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "more-villages:block/sakura_froglight_top",
+    "side": "more-villages:block/sakura_froglight_side"
+  }
+}

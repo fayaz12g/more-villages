@@ -4,14 +4,18 @@ import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
+import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.level.block.Block;
 import one.fayaz.MoreVillages;
+import one.fayaz.block.ModBlocks;
 import one.fayaz.sound.ModSounds;
 
 public class ModItems {
 
     // Declare items
     public static Item MUSIC_DISC_ZEN;
+    public static BlockItem SAKURA_FROGLIGHT;
 
     // Helper method that handles ResourceKey creation and registration
     private static <T extends Item> T registerItem(String name, T item) {
@@ -48,5 +52,27 @@ public class ModItems {
         );
 
         MoreVillages.LOGGER.info("Successfully registered music_disc_zen item");
+
+        // ========== SAKURA FROGLIGHT BLOCK ITEM ==========
+        Identifier sakuraFroglightId = Identifier.fromNamespaceAndPath(
+                MoreVillages.MOD_ID,
+                "sakura_froglight"
+        );
+        ResourceKey<Item> sakuraFroglightKey = ResourceKey.create(
+                BuiltInRegistries.ITEM.key(),
+                sakuraFroglightId
+        );
+
+        Item.Properties sakuraFroglightProperties = new BlockItem.Properties();
+
+        sakuraFroglightProperties.setId(sakuraFroglightKey);
+
+        SAKURA_FROGLIGHT = Registry.register(
+                BuiltInRegistries.ITEM,
+                sakuraFroglightKey,
+                new BlockItem(ModBlocks.SAKURA_FROGLIGHT, sakuraFroglightProperties)
+        );
+
+        MoreVillages.LOGGER.info("Successfully registered sakura_froglight block-item");
     }
 }

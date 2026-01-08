@@ -21,6 +21,26 @@
       },
       "trigger": "minecraft:player_interacted_with_entity"
     },
+    "more-villages:zen": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:frog",
+              "components": {
+                "minecraft:frog/variant": "more-villages:zen"
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:lead"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    },
     "minecraft:temperate": {
       "conditions": {
         "entity": [
