@@ -1,0 +1,12 @@
+{
+  "asset_id": "minecraft:entity/iron_golem/snow",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:has_structure/village_snow"
+      },
+      "priority": 1
+    }
+  ]
+}

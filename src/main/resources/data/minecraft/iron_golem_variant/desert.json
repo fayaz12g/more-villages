@@ -1,0 +1,12 @@
+{
+  "asset_id": "minecraft:entity/iron_golem/desert",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:has_structure/village_desert"
+      },
+      "priority": 1
+    }
+  ]
+}

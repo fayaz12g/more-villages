@@ -1,0 +1,12 @@
+{
+  "asset_id": "minecraft:entity/iron_golem/mushroom",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#more-villages:has_structure/village_mushroom"
+      },
+      "priority": 1
+    }
+  ]
+}
