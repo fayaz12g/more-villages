@@ -30,7 +30,7 @@
             "predicate": {
               "type": "minecraft:frog",
               "components": {
-                "minecraft:frog/variant": "more-villages:zen"
+                "more-villages:frog/variant": "more-villages:zen"
               }
             }
           }
